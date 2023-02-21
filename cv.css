@@ -1,0 +1,53 @@
+@import url("https://fonts.googleapis.com/css2?family=Alegreya&family=Courier+Prime&family=Cutive+Mono&family=Dancing+Script:wght@400;500;700&family=PT+Sans&family=Unna&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Alegreya:wght@400;500&family=Courier+Prime&family=Cutive+Mono&family=Dancing+Script:wght@400;500;700&family=PT+Sans&family=Unna&display=swap");
+body {
+  background-color: #f1f1f1;
+
+  font-size: 19px;
+  font-weight: normal;
+  font-family: "Alegreya", serif;
+}
+.img {
+  width: 230px;
+  box-shadow: 4px 4px 14px rgba(0, 0, 0, 0.5);
+}
+
+.head {
+  background-color: #faedd9;
+  padding: 15px;
+  border: 5px solid #734c10;
+  margin: 15px;
+  text-align: center;
+}
+.contacts {
+  margin: 0;
+  font-style: normal;
+  background-color: #fae3ed;
+  padding: 15px;
+  border: 5px solid #634854;
+  margin: 15px;
+}
+a:hover {
+  text-decoration: underline;
+}
+a:visited {
+  color: grey;
+}
+
+.container {
+  max-width: 750px;
+  margin: auto;
+}
+.experience {
+  background-color: #dcf5f2;
+  padding: 15px;
+  border: 5px solid #5b7d79;
+  margin: 15px;
+  padding-bottom: 15px;
+}
+.hobby {
+  background-color: #d5f5d3;
+  padding: 15px;
+  border: 5px solid #3e573d;
+  margin: 15px;
+}
